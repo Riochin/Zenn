@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Riochin/Zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.159"
+    "zenn-cli": "^0.2.10"
   }
 }
